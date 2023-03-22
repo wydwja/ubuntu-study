@@ -1,0 +1,3 @@
+/home/gzh/code/pthread/CMakeFiles/pathread.dir
+/home/gzh/code/pthread/CMakeFiles/edit_cache.dir
+/home/gzh/code/pthread/CMakeFiles/rebuild_cache.dir

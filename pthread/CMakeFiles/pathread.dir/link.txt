@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pathread.dir/main.cpp.o -o pathread 
