@@ -1,0 +1,3 @@
+/home/gzh/code/tcpService/CMakeFiles/tcpService.dir
+/home/gzh/code/tcpService/CMakeFiles/edit_cache.dir
+/home/gzh/code/tcpService/CMakeFiles/rebuild_cache.dir

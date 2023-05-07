@@ -1,0 +1,3 @@
+/home/gzh/code/test/CMakeFiles/test.dir
+/home/gzh/code/test/CMakeFiles/edit_cache.dir
+/home/gzh/code/test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/gzh/code/tcpClirent/CMakeFiles/tcpclirent.dir
+/home/gzh/code/tcpClirent/CMakeFiles/edit_cache.dir
+/home/gzh/code/tcpClirent/CMakeFiles/rebuild_cache.dir
